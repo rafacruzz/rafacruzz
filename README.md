@@ -1,4 +1,4 @@
-## Oie, prazer! Me chamo Rafaella Cruz  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Hi, how are you? My name is Rafaella Cruz  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 
 <img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
@@ -12,15 +12,15 @@
 
  🌎 `<>Hello World!</>`�🌎
  <br>
- 😄 Pronomes: Ela/Dela; 
+😄 Pronouns: She/Her;
  <br>
- 💬 Tenho 22 anos, gosto de cultura geek, viajar, música e arte;
+ 💬 I'm 22 years old, I like geek culture, travel, music and art;
  <br>
- ♥ Amo jogos, meus pets e inglês;
+ ♥ I love games, my pets and English;
  <br>
- 🖥️ Sou Desenvolvedora JAVA Jr. Full-Stack em formação pela Generation Brazil;
+ 🖥️ I'm a JAVA Jr. Full-Stack Developer in training at Generation Brazil;
  <br>
- ⚡ Atualmente trabalho na SumUp. 
+ ⚡ I currently work at SumUp.
   
   
 <br>
@@ -52,7 +52,6 @@
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 
   
   ## Contact
