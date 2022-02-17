@@ -1,4 +1,4 @@
-## Oie, prazer! Me chamo Rafaella Cruz ☻.
+## Oie, prazer! Me chamo Rafaella Cruz  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 
 <img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
@@ -10,7 +10,8 @@
 <br>
 <br>
 
-
+ 🌎 `<>Hello World!</>`�🌎
+ <br>
  😄 Pronomes: Ela/Dela; 
  <br>
  💬 Tenho 22 anos, gosto de cultura geek, viajar, música e arte;
@@ -51,6 +52,7 @@
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
 
   
   ## Contact
