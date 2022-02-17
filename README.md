@@ -8,11 +8,15 @@
 <br>
 <br>
 
-- 😄 Pronomes: Ela/Dela ;
-- 💬 Tenho 22 anos, gosto de cultura geek, viajar, música e arte;
-- ♥ Amo jogos, meus pets e inglês;
-- 🖥️ Sou Desenvolvedora JAVA Jr. Full-Stack em formação pela Generation Brazil;
-- ⚡ Atualmente trabalho na SumUp. 
+ 😄 Pronomes: Ela/Dela; 
+ <br>
+ 💬 Tenho 22 anos, gosto de cultura geek, viajar, música e arte;
+ <br>
+ ♥ Amo jogos, meus pets e inglês;
+ <br>
+ 🖥️ Sou Desenvolvedora JAVA Jr. Full-Stack em formação pela Generation Brazil;
+ <br>
+ ⚡ Atualmente trabalho na SumUp. 
   
 <br>
 <br>
