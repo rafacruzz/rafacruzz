@@ -1,4 +1,4 @@
-## Hi, how are you? My name is Rafaella Cruz  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Oie, tudo bem? Me chamo Rafaella Cruz.  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 
 <img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
@@ -12,19 +12,17 @@
 
  🌎 `<>Hello World!</>`�🌎
  <br>
-😄 Pronouns: She/Her;
+😄 Pronomes: She/Ela;
  <br>
- 💬 I'm 22 years old, I like geek culture, travel, music and art;
+ 💬 Tenho 22 anos, amo toooda cultura Geek, viajar, música e arte;
  <br>
- ♥ I love games, my pets and English;
+ ♥ Amo jogos, meus pets e Inglês;
  <br>
- 🖥️ I'm a JAVA Jr. Full-Stack Developer in training at Generation Brazil;
+ 🖥️ Sou desenvolvedora JAVA Jr. Full-Stack em formação pela Generation Brasil;
  <br>
- ⚡ I currently work at SumUp.
+ ⚡ Atualmente trabalho na SumUp, como Agent II Lending Specialist.
   
   
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -39,24 +37,30 @@
   
  
 <br>
-<br>
   
  
-## Learning
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Ees-Git" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
+<div align="center">
+ <h3>Aprendendo:</h3>
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+ </div>
   
-  ## Contact
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafacruzz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rafaella-cruz1999//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rafaella.leticia.cruz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rafacruzzzzz//)  
-
+<br>
+ 
+<div align="center">  
+  <h3>Contato:</h3>
+  <a href="https://github.com/rafacruzz" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/rafaella.leticia.cruz/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/rafacruzzzzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rafaella.leticiaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%e84393?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-cruz1999" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://github.com/rafacruzz/rafacruzz/blob/output/github-contribution-grid-snake.svg)
- 
+</div>
