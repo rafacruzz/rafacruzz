@@ -18,7 +18,7 @@
  <br>
  ♥ Amo jogos, meus pets e Inglês;
  <br>
- 🖥️ Sou desenvolvedora JAVA Jr. Full-Stack em formação pela Generation Brasil;
+ 🖥️ Sou desenvolvedora JAVA Jr. Full-Stack formada pela Generation Brasil;
  <br>
  ⚡ Atualmente trabalho na SumUp, como Agent II Lending Specialist.
   
