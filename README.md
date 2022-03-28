@@ -14,11 +14,11 @@
  <br>
 😄 Pronomes: She/Ela;
  <br>
- 💬 Tenho 22 anos, amo toooda cultura Geek, viajar, música e arte;
+ 💬 Tenho 22 anos, amo cultura Geek, viajar, música e arte;
  <br>
  ♥ Amo jogos, meus pets e Inglês;
  <br>
- 🖥️ Sou desenvolvedora JAVA Jr. Full-Stack formada pela Generation Brasil;
+ 🖥️ Sou desenvolvedora Jr. Full-Stack formada pela Generation Brasil;
  <br>
  ⚡ Atualmente trabalho na SumUp, como Agent II Lending Specialist.
   
