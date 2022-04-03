@@ -1,4 +1,4 @@
-## Oie, tudo bem? Sou a Rafa Cruz.  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Hello, how are you? I'm Rafa Cruz  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 
 <img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
@@ -12,15 +12,15 @@
 
  🌎 `<>Hello World!</>`�🌎
  <br>
-😄 Pronomes: She/Ela;
+😄  Pronouns: She/her;
  <br>
- 💬 Tenho 22 anos, amo cultura Geek, viajar, música e arte;
+ 💬  I'm 22 years old, I love Geek culture, travel, music and art;
  <br>
- ♥ Amo jogos, meus pets e Inglês;
+ ♥  I love games, my pets and English;
  <br>
- 🖥️ Sou desenvolvedora Jr. Full-Stack formada pela Generation Brasil;
+ 🖥️  I'm a Jr developer. Full-Stack formed by Generation Brasil;
  <br>
- ⚡ Atualmente trabalho na SumUp, como Agent II Lending Specialist.
+ ⚡  I currently work at SumUp as a Software Engineer Jr. at Lending Squad.
   
   
 <br>
