@@ -50,6 +50,7 @@
   <a href='https://github.com/rafacruzz?tab=repositories'><img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <a href='https://github.com/rafacruzz?tab=repositories'><img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <a href='https://github.com/rafacruzz?tab=repositories'><img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+     <a href='https://github.com/rafacruzz?tab=repositories'><img align="center" alt="Ees-Git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
  </div>
   
 <br>
