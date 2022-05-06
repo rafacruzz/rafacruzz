@@ -14,9 +14,9 @@
  <br>
 😄  Pronouns: She/her;
  <br>
- 💬  I'm 22 years old, I love Geek culture, travel, music and art;
+ 💬  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
  <br>
- ♥  I love games, my pets and English;
+ ♥  I love Geek culture, travel, music, art, I love games, my pets and English;
  <br>
  🖥️  I'm a Jr developer. Full-Stack formed by Generation Brasil;
  <br>
