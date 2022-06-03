@@ -1,4 +1,4 @@
-## Hello, how are you? I'm Rafa Cruz  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Hello, how are you? I'm Rafa Cruz 
 
 
 <img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
