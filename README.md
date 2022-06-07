@@ -14,7 +14,7 @@
  <br>
 😄  Pronouns: She/her;
  <br>
- 💬  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
+ 🇧🇷  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
  <br>
  ♥  I love Geek culture, travel, music, art, I love games, my pets and English;
  <br>
