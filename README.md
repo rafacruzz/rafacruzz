@@ -1,4 +1,4 @@
-## Hello, how are you? I'm Rafa Cruz 
+## Hey there! I'm Rafaella Cruz 
 
 
 <img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
@@ -18,9 +18,7 @@
  <br>
  ♥  I love Geek culture, travel, music, art, I love games, my pets and English;
  <br>
- 🖥️  I'm a Jr developer. Full-Stack formed by Generation Brasil;
- <br>
- ⚡  I currently work at SumUp as a Software Engineer Jr. at Lending Squad.
+ 🖥️ I currently work at SumUp as a Software Engineer Jr. at Lending Squad.
   
   
 <br>
