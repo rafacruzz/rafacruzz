@@ -12,7 +12,7 @@
 
  🌎 `<>Hello World!</>`�🌎
  <br>
-😄  Pronouns: She/her;
+👩🏻  Pronouns: She/her;
  <br>
  🇧🇷  I'm 23 years old, I live in Sao Jose dos Campos, Sao Paulo, Brazil.
  <br>
